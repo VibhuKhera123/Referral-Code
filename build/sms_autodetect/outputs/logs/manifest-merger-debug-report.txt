@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml:1:1-13:12
+	package
+		ADDED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml:2:3-37
+		INJECTED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml
+		INJECTED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml:3:5-12:19
+receiver#com.sunil.sms_autodetect.SmsBroadcastReceiver
+ADDED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml:4:9-11:20
+	android:exported
+		ADDED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml:6:13-37
+	android:permission
+		ADDED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml:7:13-87
+	android:name
+		ADDED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml:5:13-49
+intent-filter#action:name:com.google.android.gms.auth.api.phone.SMS_RETRIEVED
+ADDED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml:8:13-10:29
+action#com.google.android.gms.auth.api.phone.SMS_RETRIEVED
+ADDED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml:9:17-94
+	android:name
+		ADDED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml:9:25-91
+uses-sdk
+INJECTED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml
+INJECTED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml
+INJECTED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml
+INJECTED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml
+		ADDED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml
+		INJECTED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml
+		ADDED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml
+		INJECTED from /home/vibhu/.pub-cache/hosted/pub.dev/sms_autodetect-1.0.8/android/src/main/AndroidManifest.xml
