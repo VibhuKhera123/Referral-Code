@@ -26,19 +26,9 @@ public final class GeneratedPluginRegistrant {
       Log.e(TAG, "Error registering plugin firebase_core, io.flutter.plugins.firebase.core.FlutterFirebaseCorePlugin", e);
     }
     try {
-      flutterEngine.getPlugins().add(new io.flutter.plugins.pathprovider.PathProviderPlugin());
+      flutterEngine.getPlugins().add(new com.jaumard.smsautofill.SmsAutoFillPlugin());
     } catch(Exception e) {
-      Log.e(TAG, "Error registering plugin path_provider_android, io.flutter.plugins.pathprovider.PathProviderPlugin", e);
-    }
-    try {
-      flutterEngine.getPlugins().add(new dev.fluttercommunity.plus.share.SharePlusPlugin());
-    } catch(Exception e) {
-      Log.e(TAG, "Error registering plugin share_plus, dev.fluttercommunity.plus.share.SharePlusPlugin", e);
-    }
-    try {
-      flutterEngine.getPlugins().add(new fman.ge.smart_auth.SmartAuthPlugin());
-    } catch(Exception e) {
-      Log.e(TAG, "Error registering plugin smart_auth, fman.ge.smart_auth.SmartAuthPlugin", e);
+      Log.e(TAG, "Error registering plugin flutter_sms_autofill, com.jaumard.smsautofill.SmsAutoFillPlugin", e);
     }
     try {
       flutterEngine.getPlugins().add(new com.sunil.sms_autodetect.SmsAutodetectPlugin());

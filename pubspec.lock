@@ -237,6 +237,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.99"
+  sms_autodetect:
+    dependency: "direct main"
+    description:
+      name: sms_autodetect
+      sha256: a88ce905bbad94775eeedd1b849e013b5ffab314e63fe07f62345e9d8c199ddd
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.8"
   source_span:
     dependency: transitive
     description:

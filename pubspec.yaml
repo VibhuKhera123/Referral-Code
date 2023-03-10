@@ -16,6 +16,7 @@ dependencies:
   firebase_auth: ^4.2.10
   flutter_sms_autofill: ^1.0.4
   pin_code_fields: ^7.4.0
+  sms_autodetect: ^1.0.8
   
 
 
