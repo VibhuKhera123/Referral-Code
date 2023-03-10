@@ -2,6 +2,10 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:pin_code_fields/pin_code_fields.dart';
 import 'package:flutter_sms_autofill/flutter_sms_autofill.dart';
+<<<<<<< HEAD
+=======
+import 'package:sms_autodetect/sms_autodetect.dart';
+>>>>>>> main
 
 class MobileNumberVerification extends StatefulWidget {
   const MobileNumberVerification({super.key});
@@ -96,7 +100,11 @@ class _MobileNumberVerificationState extends State<MobileNumberVerification> {
         ElevatedButton(
           onPressed: () async {
             if (_pinCodeController.text.isNotEmpty) {
+<<<<<<< HEAD
               await SmsAutoFill().listenForCode;
+=======
+              await SMSAutoFill.listenForCode;
+>>>>>>> main
               smsCode = _pinCodeController.text;
               verifyOTP();
             }
