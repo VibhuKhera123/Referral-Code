@@ -13,7 +13,7 @@ void main() async {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MobileNumberVerification(),
+      home: const LoginPage(),
     ),
   );
 }

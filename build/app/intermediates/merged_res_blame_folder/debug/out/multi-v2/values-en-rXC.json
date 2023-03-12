@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.otp_testing.app-mergeDebugResources-17:/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "com.example.refferal_code.app-mergeDebugResources-16:/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
-                    "source": "/home/vibhu/.gradle/caches/transforms-3/0cfcf23e756fa9ba92bb66eca0d19874/transformed/browser-1.4.0/res/values-en-rXC/values-en-rXC.xml",
+                    "source": "/home/vibhu/.gradle/caches/transforms-3/162e57b214e200a6207c40330426bda2/transformed/browser-1.4.0/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/vibhu/.gradle/caches/transforms-3/9f9048d9b07de8867a34b545cd1d088b/transformed/core-1.9.0/res/values-en-rXC/values-en-rXC.xml",
+                    "source": "/home/vibhu/.gradle/caches/transforms-3/9578ebd2933996235787291919ab3732/transformed/core-1.8.0/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
